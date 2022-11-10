@@ -1,2 +1,2 @@
 # peluqueria-home
-app web https://andrestone91.github.io/peluqueira-home/
+app web https://andrestone91.github.io/peluqueria-home/
